@@ -1,0 +1,142 @@
+@media screen and (max-width: 600px){
+    .home{
+    width: 100% 100%;
+    } 
+    .aboutContent {
+        width: 100%;
+}.aboutImg{
+    width: 100%;
+}.item{
+    width: 100%;
+}
+.bloog{
+    width: 100%;
+}.contact{
+    width: 100%;
+}.last{
+    width: 100%;
+}
+.Testimonial{
+    width: 100%;
+}
+.oneDiv{
+    width: 100%;
+}
+.itemImg{
+    width: 100%;
+}
+html{
+    font-size: 10px;
+}
+}@media screen and (min-width: 600px){
+    .home{
+        width: 100% 100%;
+}  .aboutContent {
+        width: 100%;
+}.aboutImg{
+    width: 100%;
+}
+.item{
+    width: 100%;
+}.bloog{
+    width: 45%;
+}.contact{
+    width: 100%;
+}.last{
+    width: 100%;
+}
+.Testimonial{
+    width: 100%;
+}
+.oneDiv{
+    width: 100%;
+}
+.itemImg{
+    width: 100%;
+}
+}@media screen and (min-width: 768px){
+    .home{
+        width: 100% 100%;
+}.aboutContent {
+    width: 45%;
+}.aboutImg{
+    width: 45%;
+}
+.item{
+    width: 40%;
+}.bloog{
+    width: 45%;
+}.contact{
+    width: 100%;
+}.last{
+    width: 100%;
+}
+.Testimonial{
+    width: 100%;
+}
+.oneDiv{
+    width: 45%;
+}
+.itemImg{
+    width: 40%;
+}
+}@media screen and (min-width: 992px){
+    .home{
+        width: 100% 100%;
+        }.aboutContent {
+            width: 60%;
+        }.aboutImg{
+            width: 40%;
+        }
+    .item{
+            width: 25%;
+        }.bloog{
+            width: 30%;
+        }.contact{
+            width: 100%;
+        }
+        .last{
+            width: 100%;
+        }
+        .Testimonial{
+            width: 100%;
+        }
+        .oneDiv{
+            width: 45%;
+        }
+        .itemImg{
+            width: 40%;
+        }
+}
+
+@media screen and (min-width: 1200px){
+    .home{
+        width: 100% 100%;
+        }
+    
+        .aboutContent {
+            width: 60%;
+        }
+        .aboutImg{
+            width: 40%;
+        }.item{
+            width: 25%;
+        }
+        .bloog{
+            width: 25%;
+        }.contact{
+            width: 100%;
+        }
+        .last{
+            width: 100%;
+        }
+        .Testimonial{
+            width: 100%;
+        }
+        .oneDiv{
+            width: 25%;
+        }
+        .itemImg{
+            width: 30%;
+        }
+}
